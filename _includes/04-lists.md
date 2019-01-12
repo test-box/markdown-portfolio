@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+ - [ ] Feature One
+ - [ ] Feature Two
+ - [ ] Feature Three
+ - [ ] Feature Four
+ - [ ] Feature Five
+ - [ ] Feature Six
+ - [ ] Feature Seven
+ - [ ] Feature Eight
+ - [ ] Feature Nine
+ - [ ] Feature Ten
